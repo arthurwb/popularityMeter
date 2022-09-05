@@ -1,27 +1,27 @@
 [
     {
-        "name": "jesse",
-        "description": "Jesse is hot and ready for just about anything to come his way.",
-        "rating": 0
+      "name": "jesse",
+      "description": "Jesse is hot and ready for just about anything to come his way.",
+      "rating": 0
     },
     {
-        "name": "tegan",
-        "description": "Tegan lives for the validation of others!",
-        "rating": 0
+      "name": "tegan",
+      "description": "Tegan lives for the validation of others!",
+      "rating": 0
     },
     {
-        "name": "ashley",
-        "description": "Ashley seems to be trying her best, but we're not too sure.",
-        "rating": 0
+      "name": "ashley",
+      "description": "Ashley seems to be trying her best, but we're not too sure.",
+      "rating": 0
     },
     {
-        "name": "kayden",
-        "description": "Kayden has every tricked.",
-        "rating": 0
+      "name": "kayden",
+      "description": "Kayden has every tricked.",
+      "rating": 0
     },
     {
-        "name": "brooks",
-        "description": "Brooks is the coolest and hottest member of the group, his natural sex appeal and powerful charisma means he is the most likley to succeed.",
-        "rating": 0
+      "name": "brooks",
+      "description": "Brooks is the coolest and hottest member of the group, his natural sex appeal and powerful charisma means he is the most likley to succeed.",
+      "rating": 0
     }
-]
+  ]
