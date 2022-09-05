@@ -1,8 +1,8 @@
 const jsonPath = '/popularityMeter/data.json';
-const response = fetch(jsonPath);
-const data = response.json();
 
 function getData() {
+    const response = fetch(jsonPath);
+    const data = response.json();
     console.log(data);
 }
 
