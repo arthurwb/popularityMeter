@@ -1,8 +1,10 @@
-const jsonPath = '/popularityMeter/data.json';
+// const jsonPath = '/popularityMeter/data.json';
+// const response = fetch(jsonPath);
+// const data = response.json();
+
+import data from './data.json' assert {type: 'json'};
 
 function getData() {
-    const response = fetch(jsonPath);
-    const data = response.json();
     console.log(data);
 }
 
