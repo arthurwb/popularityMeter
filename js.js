@@ -4,7 +4,6 @@ const data = response.json();
 
 function getData() {
     console.log(data);
-    console.log(data[0].name);
 }
 
 function init() {
