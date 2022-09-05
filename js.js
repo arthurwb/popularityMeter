@@ -1,3 +1,5 @@
+'use strict';
+
 import data from './data.json' assert {type: 'json'};
 // const jsonPath = '/popularityMeter/data.json';
 // const response = fetch(jsonPath);
