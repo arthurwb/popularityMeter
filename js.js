@@ -1,6 +1,7 @@
 const jsonPath = './data.json';
+var data;
 fetch(jsonPath).then(response => {
-    const data = response.json();
+    data = response.json();
 });
 
 function getData() {
